@@ -1,6 +1,6 @@
 # Memory Puzzle Game
 
-The Memory Game, developed using Python and Pygame, is a tile-matching game showcasing interactive gameplay, specific data structures, algorithms, and notable features.
+The Memory Game, developed using Python and Pygame, is a tile-matching game showcasing interactive gameplay, specific data structures, algorithms, and notable features. Developed by Rudra Prakash Singh.
 
 ## Technical Aspects
 
